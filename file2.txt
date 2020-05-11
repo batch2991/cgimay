@@ -1,2 +1,2 @@
 new file2
-new line added
+this is updated
